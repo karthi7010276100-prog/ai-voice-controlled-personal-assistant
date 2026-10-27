@@ -1,0 +1,2 @@
+# Core project uses Python standard library only.
+# Optional voice support can be added later; see README roadmap.
